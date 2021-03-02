@@ -1,7 +1,7 @@
 {
-  "name": "Waterfall Builder for MoPub",
+  "name": "Publisher UI Extension (MoPub)",
   "version": "0.0.24",
-  "description": "A tool help you managing line items in MoPub UI",
+  "description": "A tool help users manage their monitization stack within the MoPub UI",
   "manifest_version": 2,
   "background": {
     "persistent": true,
@@ -21,7 +21,7 @@
   },
   "browser_action": {
     "default_icon": "img/default-logo.png",
-    "default_title": "Waterfall Builder for MoPub"
+    "default_title": "Publisher UI Extension (MoPub)"
   },
   "icons": {
 		"16": "img/logo-16.png",
